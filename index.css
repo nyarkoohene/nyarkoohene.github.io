@@ -91,6 +91,12 @@ body{
     color: #1f2937;
 }
 
+.about-text{
+    padding: 20px;
+    margin: 0;
+    text-align: justify;
+}
+
  h2{
     font-size: 36px;
     font-weight: 900;
