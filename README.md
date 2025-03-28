@@ -19,6 +19,5 @@ Deployment: GitHub Pages
 👤 About Me
 I'm a passionate web developer specializing in building sleek, responsive, and user-friendly web applications. Connect with me:
 
-📧 Email: nyarkoohenekwasi@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/ohenenyarko
 🐙 GitHub: https://github.com/nyarkoohene
