@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.grid-wrapper{
+    width: 700px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    aspect-ratio: 1 / 1;
+}
+.rows{
+    display: flex;
+    border: solid 1px black;
+    flex: 1;
+}
+
+.collumns{
+    border: solid 1px black;
+    flex: 1;
+    box-sizing: border-box;
+}
+
+.grid-btn{
+    width: 100px;
+    margin-bottom: 10px;
+}
