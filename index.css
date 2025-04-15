@@ -122,6 +122,30 @@ body{
     text-align: center;
 }
 
+.project-list{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+.projects a{
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+
+.projects img{
+    border: 1px solid #ddd; 
+    border-radius: 4px;  
+    padding: 5px; 
+    width: 200px; 
+}
+
+.projects img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
 .projects h3{
     font-style:italic ;
 }
