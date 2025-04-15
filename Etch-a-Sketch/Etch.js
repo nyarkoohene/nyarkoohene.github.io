@@ -22,7 +22,7 @@ newGrid.addEventListener('click', () =>{
                 const collumn  = document.createElement('div');
                 collumn.setAttribute('class',' collumns');
                 collumn.setAttribute('id',` collumn${x}`);
-                collumn.addEventListener('mouseover', (e) =>{
+                collumn.addEventListener('click', (e) =>{
                     const hovered = e.target
                     hovered.setAttribute('style','background-color:black') 
                 })
